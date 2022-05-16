@@ -1,4 +1,4 @@
-package com.example.practice_api.ui.home;
+package com.example.practice_api.ui.meme_frag;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

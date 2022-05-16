@@ -7,15 +7,15 @@
 
     <fragment
         android:id="@+id/nav_meme"
-        android:name="com.example.practice_api.ui.home.MemeFragment"
+        android:name="com.example.practice_api.ui.meme_frag.MemeFragment"
         android:label="@string/meme_fragment"
         tools:layout="@layout/fragment_meme" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.example.practice_api.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:id="@+id/nav_wallpaper"
+        android:name="com.example.practice_api.ui.wallpaper.WallpaperFragment"
+        android:label="@string/wallpapers"
+        tools:layout="@layout/fragment_wallpaper" />
 
     <fragment
         android:id="@+id/nav_slideshow"

@@ -2886,12 +2886,12 @@ id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
 id nav_controller_view_tag
-id nav_gallery
 id nav_host_fragment_container
 id nav_host_fragment_content_main
 id nav_meme
 id nav_slideshow
 id nav_view
+id nav_wallpaper
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -2935,6 +2935,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyclerView_wallpaper
 id reverseSawtooth
 id right
 id rightToLeft
@@ -2953,6 +2954,7 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
+id searchView_wallpaper
 id search_badge
 id search_bar
 id search_button
@@ -3032,7 +3034,6 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
-id text_gallery
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3194,9 +3195,9 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
-layout fragment_gallery
 layout fragment_meme
 layout fragment_slideshow
+layout fragment_wallpaper
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3362,7 +3363,6 @@ string material_timepicker_pm
 string material_timepicker_select_time
 string material_timepicker_text_input_mode_description
 string meme_fragment
-string menu_gallery
 string menu_slideshow
 string mtrl_badge_numberless_content_description
 string mtrl_chip_close_icon_content_description
@@ -3414,6 +3414,7 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
+string wallpapers
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

@@ -1,4 +1,4 @@
-package com.example.practice_api.ui.home;
+package com.example.practice_api.ui.meme_frag;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

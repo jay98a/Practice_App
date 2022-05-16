@@ -1,14 +1,14 @@
-package com.example.practice_api.ui.gallery;
+package com.example.practice_api.ui.wallpaper;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class GalleryViewModel extends ViewModel {
+public class WallpaperViewModel extends ViewModel {
 
     private final MutableLiveData<String> mText;
 
-    public GalleryViewModel() {
+    public WallpaperViewModel() {
         mText = new MutableLiveData<>();
         mText.setValue("This is gallery fragment");
     }

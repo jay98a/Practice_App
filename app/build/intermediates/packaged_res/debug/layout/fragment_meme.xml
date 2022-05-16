@@ -4,7 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.home.MemeFragment">
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    tools:context=".ui.meme_frag.MemeFragment">
 
     <ImageView
         android:id="@+id/meme_view"
