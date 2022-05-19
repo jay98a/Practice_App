@@ -17,12 +17,14 @@ drawable ic_launcher_foreground
 drawable ic_menu_camera
 drawable ic_menu_gallery
 drawable ic_menu_slideshow
+drawable search_background
 drawable side_nav_bar
 id action_settings
 id app_bar_main
 id drawer_layout
 id guideline2
 id imageView
+id linearLayout_catagories
 id meme_next
 id meme_share
 id meme_view

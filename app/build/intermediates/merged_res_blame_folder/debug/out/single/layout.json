@@ -1,46 +1,30 @@
 [
     {
-        "merged": "com.example.practice_api.app-mergeDebugResources-36:/layout/app_bar_main.xml",
-        "source": "com.example.practice_api.app-main-39:/layout/app_bar_main.xml"
+        "merged": "com.example.practice_api.app-mergeDebugResources-40:/layout/fragment_meme.xml",
+        "source": "com.example.practice_api.app-main-43:/layout/fragment_meme.xml"
     },
     {
-        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-mergeDebugResources-36:\\layout\\fragment_slideshow.xml",
-        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-39:\\layout\\fragment_slideshow.xml"
+        "merged": "com.example.practice_api.app-mergeDebugResources-40:/layout/fragment_slideshow.xml",
+        "source": "com.example.practice_api.app-main-43:/layout/fragment_slideshow.xml"
     },
     {
-        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-mergeDebugResources-36:\\layout\\fragment_meme.xml",
-        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-39:\\layout\\fragment_meme.xml"
+        "merged": "com.example.practice_api.app-mergeDebugResources-40:/layout/content_main.xml",
+        "source": "com.example.practice_api.app-main-43:/layout/content_main.xml"
     },
     {
-        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-mergeDebugResources-36:\\layout\\fragment_gallery.xml",
-        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-39:\\layout\\fragment_gallery.xml"
+        "merged": "com.example.practice_api.app-mergeDebugResources-40:/layout/fragment_wallpaper.xml",
+        "source": "com.example.practice_api.app-main-43:/layout/fragment_wallpaper.xml"
     },
     {
-        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-mergeDebugResources-36:\\layout\\content_main.xml",
-        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-39:\\layout\\content_main.xml"
+        "merged": "com.example.practice_api.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.example.practice_api.app-main-43:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-mergeDebugResources-36:\\layout\\fragment_home.xml",
-        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-39:\\layout\\fragment_home.xml"
+        "merged": "com.example.practice_api.app-mergeDebugResources-40:/layout/app_bar_main.xml",
+        "source": "com.example.practice_api.app-main-43:/layout/app_bar_main.xml"
     },
     {
-        "merged": "com.example.practice_api.app-mergeDebugResources-36:/layout/fragment_wallpaper.xml",
-        "source": "com.example.practice_api.app-main-39:/layout/fragment_wallpaper.xml"
-    },
-    {
-        "merged": "com.example.practice_api.app-mergeDebugResources-36:/layout/fragment_meme.xml",
-        "source": "com.example.practice_api.app-main-39:/layout/fragment_meme.xml"
-    },
-    {
-        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-mergeDebugResources-36:\\layout\\nav_header_main.xml",
-        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-39:\\layout\\nav_header_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-mergeDebugResources-36:\\layout\\app_bar_main.xml",
-        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-39:\\layout\\app_bar_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-mergeDebugResources-36:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-39:\\layout\\activity_main.xml"
+        "merged": "com.example.practice_api.app-mergeDebugResources-40:/layout/nav_header_main.xml",
+        "source": "com.example.practice_api.app-main-43:/layout/nav_header_main.xml"
     }
 ]

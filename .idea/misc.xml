@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jay98/AndroidStudioProjects/Practice_Api/app/src/main/res/drawable/search_background.xml" value="0.132" />
         <entry key="..\:/Users/jay98/AndroidStudioProjects/Practice_Api/app/src/main/res/layout/activity_main.xml" value="0.3625" />
         <entry key="..\:/Users/jay98/AndroidStudioProjects/Practice_Api/app/src/main/res/layout/app_bar_main.xml" value="0.3625" />
         <entry key="..\:/Users/jay98/AndroidStudioProjects/Practice_Api/app/src/main/res/layout/content_main.xml" value="0.25" />
@@ -10,7 +11,7 @@
         <entry key="..\:/Users/jay98/AndroidStudioProjects/Practice_Api/app/src/main/res/layout/fragment_home.xml" value="0.3625" />
         <entry key="..\:/Users/jay98/AndroidStudioProjects/Practice_Api/app/src/main/res/layout/fragment_meme.xml" value="0.3625" />
         <entry key="..\:/Users/jay98/AndroidStudioProjects/Practice_Api/app/src/main/res/layout/fragment_slideshow.xml" value="0.3625" />
-        <entry key="..\:/Users/jay98/AndroidStudioProjects/Practice_Api/app/src/main/res/layout/fragment_wallpaper.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/jay98/AndroidStudioProjects/Practice_Api/app/src/main/res/layout/fragment_wallpaper.xml" value="0.25" />
         <entry key="..\:/Users/jay98/AndroidStudioProjects/Practice_Api/app/src/main/res/layout/nav_header_main.xml" value="0.3625" />
         <entry key="..\:/Users/jay98/AndroidStudioProjects/Practice_Api/app/src/main/res/menu/activity_main_drawer.xml" value="0.3625" />
         <entry key="..\:/Users/jay98/AndroidStudioProjects/Practice_Api/app/src/main/res/menu/main.xml" value="0.18541666666666667" />

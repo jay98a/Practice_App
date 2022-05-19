@@ -4,6 +4,7 @@ package com.example.practice_api.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.LinearLayout;
 import android.widget.SearchView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -21,14 +22,19 @@ public final class FragmentWallpaperBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
+  public final LinearLayout linearLayoutCatagories;
+
+  @NonNull
   public final RecyclerView recyclerViewWallpaper;
 
   @NonNull
   public final SearchView searchViewWallpaper;
 
   private FragmentWallpaperBinding(@NonNull ConstraintLayout rootView,
-      @NonNull RecyclerView recyclerViewWallpaper, @NonNull SearchView searchViewWallpaper) {
+      @NonNull LinearLayout linearLayoutCatagories, @NonNull RecyclerView recyclerViewWallpaper,
+      @NonNull SearchView searchViewWallpaper) {
     this.rootView = rootView;
+    this.linearLayoutCatagories = linearLayoutCatagories;
     this.recyclerViewWallpaper = recyclerViewWallpaper;
     this.searchViewWallpaper = searchViewWallpaper;
   }
@@ -60,6 +66,12 @@ public final class FragmentWallpaperBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.linearLayout_catagories;
+      LinearLayout linearLayoutCatagories = ViewBindings.findChildViewById(rootView, id);
+      if (linearLayoutCatagories == null) {
+        break missingId;
+      }
+
       id = R.id.recyclerView_wallpaper;
       RecyclerView recyclerViewWallpaper = ViewBindings.findChildViewById(rootView, id);
       if (recyclerViewWallpaper == null) {
@@ -72,8 +84,8 @@ public final class FragmentWallpaperBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentWallpaperBinding((ConstraintLayout) rootView, recyclerViewWallpaper,
-          searchViewWallpaper);
+      return new FragmentWallpaperBinding((ConstraintLayout) rootView, linearLayoutCatagories,
+          recyclerViewWallpaper, searchViewWallpaper);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
