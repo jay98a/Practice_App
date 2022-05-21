@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.ProgressBar;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
@@ -28,16 +29,21 @@ public final class FragmentMemeBinding implements ViewBinding {
   public final Button memeNext;
 
   @NonNull
+  public final ProgressBar memeProgressBar;
+
+  @NonNull
   public final Button memeShare;
 
   @NonNull
   public final ImageView memeView;
 
   private FragmentMemeBinding(@NonNull ConstraintLayout rootView, @NonNull Guideline guideline2,
-      @NonNull Button memeNext, @NonNull Button memeShare, @NonNull ImageView memeView) {
+      @NonNull Button memeNext, @NonNull ProgressBar memeProgressBar, @NonNull Button memeShare,
+      @NonNull ImageView memeView) {
     this.rootView = rootView;
     this.guideline2 = guideline2;
     this.memeNext = memeNext;
+    this.memeProgressBar = memeProgressBar;
     this.memeShare = memeShare;
     this.memeView = memeView;
   }
@@ -81,6 +87,12 @@ public final class FragmentMemeBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.meme_progressBar;
+      ProgressBar memeProgressBar = ViewBindings.findChildViewById(rootView, id);
+      if (memeProgressBar == null) {
+        break missingId;
+      }
+
       id = R.id.meme_share;
       Button memeShare = ViewBindings.findChildViewById(rootView, id);
       if (memeShare == null) {
@@ -93,8 +105,8 @@ public final class FragmentMemeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentMemeBinding((ConstraintLayout) rootView, guideline2, memeNext, memeShare,
-          memeView);
+      return new FragmentMemeBinding((ConstraintLayout) rootView, guideline2, memeNext,
+          memeProgressBar, memeShare, memeView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -11,105 +11,87 @@
 9-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->[org.chromium.net:cronet-api:72.3626.96] C:\Users\jay98\.gradle\caches\transforms-3\c332797a2ba1bbdefbb522c97d7bc487\transformed\cronet-api-72.3626.96\AndroidManifest.xml:19:5-66
-11-->[org.chromium.net:cronet-api:72.3626.96] C:\Users\jay98\.gradle\caches\transforms-3\c332797a2ba1bbdefbb522c97d7bc487\transformed\cronet-api-72.3626.96\AndroidManifest.xml:19:22-64
-12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->[org.chromium.net:cronet-api:72.3626.96] C:\Users\jay98\.gradle\caches\transforms-3\c332797a2ba1bbdefbb522c97d7bc487\transformed\cronet-api-72.3626.96\AndroidManifest.xml:20:5-78
-12-->[org.chromium.net:cronet-api:72.3626.96] C:\Users\jay98\.gradle\caches\transforms-3\c332797a2ba1bbdefbb522c97d7bc487\transformed\cronet-api-72.3626.96\AndroidManifest.xml:20:22-76
-13
-14    <application
-14-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:6:5-27:19
-15        android:allowBackup="true"
-15-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:7:9-35
-16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-16-->[androidx.core:core:1.7.0] C:\Users\jay98\.gradle\caches\transforms-3\d8338c189490aee58604e111af57865f\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
-17        android:dataExtractionRules="@xml/data_extraction_rules"
-17-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:8:9-65
-18        android:debuggable="true"
-19        android:fullBackupContent="@xml/backup_rules"
-19-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:9:9-54
-20        android:icon="@mipmap/ic_launcher"
-20-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:10:9-43
-21        android:label="@string/app_name"
-21-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:11:9-41
-22        android:roundIcon="@mipmap/ic_launcher_round"
-22-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:12:9-54
-23        android:supportsRtl="true"
-23-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:13:9-35
-24        android:testOnly="true"
-25        android:theme="@style/Theme.Practice_Api" >
-25-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:14:9-50
-26        <activity
-26-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:16:9-26:20
-27            android:name="com.example.practice_api.MainActivity"
-27-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:17:13-41
-28            android:exported="true"
-28-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:18:13-36
-29            android:label="@string/app_name"
-29-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:19:13-45
-30            android:theme="@style/Theme.Practice_Api.NoActionBar" >
-30-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:20:13-66
-31            <intent-filter>
-31-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:21:13-25:29
-32                <action android:name="android.intent.action.MAIN" />
-32-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:22:17-69
-32-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:22:25-66
-33
-34                <category android:name="android.intent.category.LAUNCHER" />
-34-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:24:17-77
-34-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:24:27-74
-35            </intent-filter>
-36        </activity>
-37        <activity
-37-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\jay98\.gradle\caches\transforms-3\554e56b7ca3c23393183273258feb399\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
-38            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-38-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\jay98\.gradle\caches\transforms-3\554e56b7ca3c23393183273258feb399\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
-39            android:exported="false"
-39-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\jay98\.gradle\caches\transforms-3\554e56b7ca3c23393183273258feb399\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
-40            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-40-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\jay98\.gradle\caches\transforms-3\554e56b7ca3c23393183273258feb399\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
-41
-42        <meta-data
-42-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\jay98\.gradle\caches\transforms-3\f4edb30f12a4233ffb8ce3032d6469ff\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
-43            android:name="com.google.android.gms.version"
-43-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\jay98\.gradle\caches\transforms-3\f4edb30f12a4233ffb8ce3032d6469ff\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
-44            android:value="@integer/google_play_services_version" />
-44-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\jay98\.gradle\caches\transforms-3\f4edb30f12a4233ffb8ce3032d6469ff\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
-45
-46        <provider
-46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-47            android:name="androidx.startup.InitializationProvider"
-47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-48            android:authorities="com.example.practice_api.androidx-startup"
-48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-49            android:exported="false" >
-49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-50            <meta-data
-50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-51                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-52                android:value="androidx.startup" />
-52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-53            <meta-data
-53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jay98\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-54                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jay98\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-55                android:value="androidx.startup" />
-55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jay98\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-56        </provider>
-57
-58        <uses-library
-58-->[androidx.window:window:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
-59            android:name="androidx.window.extensions"
-59-->[androidx.window:window:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
-60            android:required="false" />
-60-->[androidx.window:window:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
-61        <uses-library
-61-->[androidx.window:window:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
-62            android:name="androidx.window.sidecar"
-62-->[androidx.window:window:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
-63            android:required="false" />
-63-->[androidx.window:window:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
-64    </application>
-65
-66</manifest>
+11-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:6:5-66
+11-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:6:22-64
+12
+13    <application
+13-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:8:5-29:19
+14        android:allowBackup="true"
+14-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:9:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.7.0] C:\Users\jay98\.gradle\caches\transforms-3\d8338c189490aee58604e111af57865f\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+16        android:dataExtractionRules="@xml/data_extraction_rules"
+16-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:10:9-65
+17        android:debuggable="true"
+18        android:fullBackupContent="@xml/backup_rules"
+18-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:11:9-54
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:12:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:13:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:14:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:15:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.Practice_Api" >
+24-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:16:9-50
+25        <activity
+25-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:18:9-28:20
+26            android:name="com.example.practice_api.MainActivity"
+26-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:19:13-41
+27            android:exported="true"
+27-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:20:13-36
+28            android:label="@string/app_name"
+28-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:21:13-45
+29            android:theme="@style/Theme.Practice_Api.NoActionBar" >
+29-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:22:13-66
+30            <intent-filter>
+30-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:23:13-27:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:24:17-69
+31-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:24:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:26:17-77
+33-->C:\Users\jay98\AndroidStudioProjects\Practice_Api\app\src\main\AndroidManifest.xml:26:27-74
+34            </intent-filter>
+35        </activity>
+36
+37        <provider
+37-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+38            android:name="androidx.startup.InitializationProvider"
+38-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+39            android:authorities="com.example.practice_api.androidx-startup"
+39-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+40            android:exported="false" >
+40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+41            <meta-data
+41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+42                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+43                android:value="androidx.startup" />
+43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+44            <meta-data
+44-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jay98\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+45                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+45-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jay98\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+46                android:value="androidx.startup" />
+46-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jay98\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+47        </provider>
+48
+49        <uses-library
+49-->[androidx.window:window:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+50            android:name="androidx.window.extensions"
+50-->[androidx.window:window:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+51            android:required="false" />
+51-->[androidx.window:window:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+52        <uses-library
+52-->[androidx.window:window:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+53            android:name="androidx.window.sidecar"
+53-->[androidx.window:window:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+54            android:required="false" />
+54-->[androidx.window:window:1.0.0] C:\Users\jay98\.gradle\caches\transforms-3\f65b5ca91da7c8c2dd021bd66811129e\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+55    </application>
+56
+57</manifest>

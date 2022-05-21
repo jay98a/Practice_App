@@ -26,6 +26,7 @@ id guideline2
 id imageView
 id linearLayout_catagories
 id meme_next
+id meme_progressBar
 id meme_share
 id meme_view
 id mobile_navigation

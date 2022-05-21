@@ -1,126 +1,130 @@
 [
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.practice_api.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/drawable_ic_menu_camera.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/drawable/ic_menu_camera.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.practice_api.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\layout_fragment_meme.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\layout\\fragment_meme.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.practice_api.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\menu\\activity_main_drawer.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.practice_api.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/layout_fragment_slideshow.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/layout/fragment_slideshow.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/layout_app_bar_main.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/layout/app_bar_main.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\drawable\\ic_menu_slideshow.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.practice_api.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/drawable_ic_menu_slideshow.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/drawable/ic_menu_slideshow.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.practice_api.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.practice_api.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/menu_activity_main_drawer.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/menu/activity_main_drawer.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\drawable_search_background.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\drawable\\search_background.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/navigation_mobile_navigation.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/navigation/mobile_navigation.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/layout_nav_header_main.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/layout/nav_header_main.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/layout_fragment_wallpaper.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/layout/fragment_wallpaper.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\layout\\nav_header_main.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.practice_api.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\layout_fragment_wallpaper.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\layout\\fragment_wallpaper.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/xml_backup_rules.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\layout\\content_main.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/layout_activity_main.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/layout/activity_main.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\menu_main.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\menu\\main.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.practice_api.app-pngs-36:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/layout_content_main.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/layout/content_main.xml"
+        "merged": "com.example.practice_api.app-merged_res-38:/layout_fragment_meme.xml.flat",
+        "source": "com.example.practice_api.app-main-40:/layout/fragment_meme.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.practice_api.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.practice_api.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\drawable\\ic_menu_gallery.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/layout_fragment_meme.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/layout/fragment_meme.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\layout\\fragment_slideshow.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/drawable_side_nav_bar.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/drawable/side_nav_bar.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/drawable_search_background.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/drawable/search_background.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/drawable_ic_menu_gallery.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/drawable/ic_menu_gallery.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-pngs-33:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.practice_api.app-merged_res-41:/menu_main.xml.flat",
-        "source": "com.example.practice_api.app-main-43:/menu/main.xml"
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\drawable\\ic_menu_camera.xml"
     }
 ]

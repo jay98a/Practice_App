@@ -22,6 +22,16 @@
         android:layout_marginLeft="5dp"
         android:layout_marginRight="5dp"/>
 
+    <ProgressBar
+        android:id="@+id/meme_progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="@+id/meme_view"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/meme_view"
+        android:visibility="invisible"/>
+
 
 
     <Button
