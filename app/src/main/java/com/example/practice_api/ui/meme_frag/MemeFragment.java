@@ -23,6 +23,7 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
 import com.bumptech.glide.Glide;
+import com.example.practice_api.MyVollySingleton;
 import com.example.practice_api.R;
 import com.example.practice_api.databinding.FragmentMemeBinding;
 
@@ -74,11 +75,11 @@ public class MemeFragment extends Fragment {
         progressBar.setVisibility(View.VISIBLE);
 
         // Instantiate the RequestQueue.
-        RequestQueue queue = Volley.newRequestQueue(getContext());
+        //RequestQueue queue = Volley.newRequestQueue(getContext());
         String url = "https://meme-api.herokuapp.com/gimme";
 
         // Request a string response from the provided URL.
-        JsonObjectRequest stringRequest = new JsonObjectRequest(Request.Method.GET, url,null,
+        JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, url,null,
                 new Response.Listener<JSONObject>() {
                     @Override
                     public void onResponse(JSONObject response) {
@@ -99,7 +100,8 @@ public class MemeFragment extends Fragment {
         });
 
         // Add the request to the RequestQueue.
-        queue.add(stringRequest);
+        //queue.add(jsonObjectRequest);
+        MyVollySingleton.getInstance(getContext()).addToRequestQueue(jsonObjectRequest);
 
     }
 

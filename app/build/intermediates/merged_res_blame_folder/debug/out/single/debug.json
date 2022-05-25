@@ -16,6 +16,10 @@
         "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\layout\\fragment_meme.xml"
     },
     {
+        "merged": "com.example.practice_api.app-merged_res-38:/layout_fragment_wallpaper.xml.flat",
+        "source": "com.example.practice_api.app-main-40:/layout/fragment_wallpaper.xml"
+    },
+    {
         "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\menu_activity_main_drawer.xml.flat",
         "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\menu\\activity_main_drawer.xml"
     },
@@ -26,6 +30,10 @@
     {
         "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\layout_app_bar_main.xml.flat",
         "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\layout_wallpaper_item_view.xml.flat",
+        "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\layout\\wallpaper_item_view.xml"
     },
     {
         "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\mipmap-mdpi_ic_launcher.webp.flat",
@@ -46,6 +54,10 @@
     {
         "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.practice_api.app-merged_res-38:/layout_wallpaper_item_view.xml.flat",
+        "source": "com.example.practice_api.app-main-40:/layout/wallpaper_item_view.xml"
     },
     {
         "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
@@ -90,10 +102,6 @@
     {
         "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\mipmap-mdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.practice_api.app-merged_res-38:/layout_fragment_meme.xml.flat",
-        "source": "com.example.practice_api.app-main-40:/layout/fragment_meme.xml"
     },
     {
         "merged": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-merged_res-38:\\xml_data_extraction_rules.xml.flat",

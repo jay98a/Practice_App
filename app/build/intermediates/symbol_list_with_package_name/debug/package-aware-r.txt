@@ -1313,6 +1313,7 @@ color foreground_material_dark
 color foreground_material_light
 color highlighted_text_material_dark
 color highlighted_text_material_light
+color light_grey
 color m3_appbar_overlay_color
 color m3_assist_chip_icon_tint_color
 color m3_assist_chip_stroke_color
@@ -2674,6 +2675,7 @@ id buttonPanel
 id cache_measures
 id callMeasure
 id cancel_button
+id cardView_wallpaper_item
 id carryVelocity
 id center
 id centerCrop
@@ -2801,6 +2803,7 @@ id ignore
 id ignoreRequest
 id image
 id imageView
+id imageView_wallpaper_item
 id immediateStop
 id included
 id info
@@ -2822,7 +2825,6 @@ id legacy
 id line1
 id line3
 id linear
-id linearLayout_catagories
 id listMode
 id list_item
 id locale
@@ -3277,6 +3279,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+layout wallpaper_item_view
 menu activity_main_drawer
 menu example_menu
 menu example_menu2
