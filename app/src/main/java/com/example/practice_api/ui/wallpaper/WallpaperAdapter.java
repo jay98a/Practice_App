@@ -35,6 +35,7 @@ public class WallpaperAdapter extends RecyclerView.Adapter<WallpaperViewHolder> 
     @Override
     public void onBindViewHolder(@NonNull final WallpaperViewHolder holder, final int position) {
         Glide.with(context).load(wallpaperModelslist.get(position).getMediumUrl()).into(holder.imageView);
+        holder.imageView.setBackground(null);
         //Glide.with(context).load(R.drawable.ic_launcher_background).into(holder.imageView);
 
         holder.imageView.setOnClickListener(new View.OnClickListener() {

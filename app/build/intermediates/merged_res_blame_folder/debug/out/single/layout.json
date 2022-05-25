@@ -8,10 +8,6 @@
         "source": "C:\\Users\\jay98\\.gradle\\daemon\\7.3.3\\com.example.practice_api.app-main-40:\\layout\\content_main.xml"
     },
     {
-        "merged": "com.example.practice_api.app-mergeDebugResources-37:/layout/fragment_wallpaper.xml",
-        "source": "com.example.practice_api.app-main-40:/layout/fragment_wallpaper.xml"
-    },
-    {
         "merged": "com.example.practice_api.app-mergeDebugResources-37:/layout/wallpaper_item_view.xml",
         "source": "com.example.practice_api.app-main-40:/layout/wallpaper_item_view.xml"
     },

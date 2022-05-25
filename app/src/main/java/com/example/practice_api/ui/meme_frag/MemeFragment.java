@@ -2,6 +2,7 @@ package com.example.practice_api.ui.meme_frag;
 
 import static android.content.ContentValues.TAG;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -36,6 +37,7 @@ public class MemeFragment extends Fragment {
     private ImageView imageView;
     private Button btn_next,btn_share;
     private ProgressBar progressBar;
+    String image_url;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
@@ -59,13 +61,23 @@ public class MemeFragment extends Fragment {
         btn_share = (Button) root.findViewById(R.id.meme_share);
         btn_share.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
-                Toast.makeText(getContext(), "No Action set Yet", Toast.LENGTH_SHORT).show();
-            }
+            public void onClick(View v) { openShareFun(); }
         });
 
         call_memeApi();
         return root;
+
+    }
+
+    private void openShareFun() {
+
+        Intent sendIntent = new Intent();
+        sendIntent.setAction(Intent.ACTION_SEND);
+        sendIntent.putExtra(Intent.EXTRA_TEXT, ""+image_url);
+        sendIntent.setType("text/plain");
+
+        Intent shareIntent = Intent.createChooser(sendIntent, null);
+        startActivity(shareIntent);
 
     }
 
@@ -85,8 +97,8 @@ public class MemeFragment extends Fragment {
                     public void onResponse(JSONObject response) {
                         Log.d(TAG, "onResponse: "+response);
                         try {
-                            String temp = response.getString("url");
-                            Glide.with(getContext()).load(temp).into(imageView);
+                            image_url = response.getString("url");
+                            Glide.with(getContext()).load(image_url).into(imageView);
                             progressBar.setVisibility(View.INVISIBLE);
                         } catch (JSONException e) {
                             e.printStackTrace();

@@ -26,11 +26,10 @@
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="15dp"
         android:layout_marginBottom="5dp"
-        android:id="@+id/recyclerView_wallpaper"
+        android:layout_marginTop="30dp"
         app:layout_constraintTop_toBottomOf="@id/searchView_wallpaper"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:id="@+id/recyclerView_wallpaper"
         tools:listitem="@layout/wallpaper_item_view"
         tools:itemCount="10"/>
 

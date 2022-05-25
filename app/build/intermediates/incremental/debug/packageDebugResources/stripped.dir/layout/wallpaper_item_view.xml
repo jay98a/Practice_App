@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:layout_width="150dp"
-    android:layout_height="200dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
     android:layout_margin="7dp"
     android:orientation="vertical"
     app:cardCornerRadius="15dp"
@@ -10,14 +10,14 @@ xmlns:app="http://schemas.android.com/apk/res-auto"
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@color/light_grey">
+        android:layout_height="wrap_content">
 
         <ImageView
             android:id="@+id/imageView_wallpaper_item"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:clickable="true"/>
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:background="@color/light_grey"/>
 
     </LinearLayout>
 
